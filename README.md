@@ -1,5 +1,3 @@
-# [📞Telegram](https://t.me/oxie11)
-
 # Solana Arbitrage Bot Architecture
 
 ## DEXs supported
